@@ -1,6 +1,6 @@
 # Churner_Prediction_by_Playtime
 
-This repository contains the full version of this paper: 
+This repository contains the full version of the paper: 
 
 Utilizing Players’ Playtime Records for Churn Prediction: Mining Playtime Regularity. 
 
